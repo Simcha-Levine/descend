@@ -1,0 +1,27 @@
+#canvas {
+  width: 500px;
+  height: 900px;
+}
+
+body {
+  background-color: rgb(33, 33, 33);
+}
+
+.v {
+  display: flex;
+  flex-direction: column;
+}
+
+.h {
+  display: flex;
+  flex-direction: row;
+}
+
+.center {
+  justify-content: center;
+}
+
+.score {
+  color: aliceblue;
+  font-size: 200%;
+}
