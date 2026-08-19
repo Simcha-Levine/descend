@@ -197,9 +197,6 @@ function loop(): void {
 }
 // ─── Init ─────────────────────────────────────────────────────────────────────
 
-ctx.fillStyle = '#0a0a12'
-ctx.fillRect(0, 0, canvas.width, canvas.height)
-
 init()
 loop()
 
