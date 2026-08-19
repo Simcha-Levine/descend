@@ -1,7 +1,6 @@
 import './style.css'
 import Step from './stepsGraphics'
 
-
 const canvas = document.getElementById('canvas') as HTMLCanvasElement
 const ctx = canvas.getContext('2d')!
 
